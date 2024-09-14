@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636507439243",
+    "project_id": "expo--signin-firebase-172b1",
+    "storage_bucket": "expo--signin-firebase-172b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636507439243:android:0c56ccae23dfffd54a548e",
+        "android_client_info": {
+          "package_name": "com.tiggers.roomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WaMT4BTLN-5pC9mvgjpvF_VaryBzTFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

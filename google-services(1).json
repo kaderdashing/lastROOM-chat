@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636507439243",
+    "project_id": "expo--signin-firebase-172b1",
+    "storage_bucket": "expo--signin-firebase-172b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636507439243:android:0c56ccae23dfffd54a548e",
+        "android_client_info": {
+          "package_name": "com.tiggers.roomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636507439243-iqqpded8gckp3f3ookf6ujcoic0fh80v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiggers.roomapp",
+            "certificate_hash": "17264746ba822faa525ecdded219b6070c3da48a"
+          }
+        },
+        {
+          "client_id": "636507439243-l8imtn0dqom0nme1trj9boj16e6fcosu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WaMT4BTLN-5pC9mvgjpvF_VaryBzTFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636507439243-l8imtn0dqom0nme1trj9boj16e6fcosu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
